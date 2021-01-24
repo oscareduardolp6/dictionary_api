@@ -1,0 +1,10 @@
+{
+    "name": "dictionary_api",
+    "version": "1.0.0",
+    "start": "node app/server.js",
+    "dependencies": {
+        "express": "^4.7.1",
+        "method-override": "^2.1.2"
+    }
+
+}
